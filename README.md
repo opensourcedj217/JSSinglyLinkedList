@@ -30,7 +30,7 @@ list.shift();
 **.unshift(value)** 
 adds a node of the given value at the beginning of the list.
 ```javascript
-list.shift('node value');
+list.unshift('node value');
 ```
 
 **.get(index)** 

@@ -4,8 +4,26 @@
   "description": "This is singly Linked List Data structure in javscript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opensourcedj217/JSSinglyLinkedList"
   },
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "javascript ds",
+    "singly linked list",
+    "singly linked list es6",
+    "singly linked list js",
+    "linked list",
+    "linked list es6",
+    "linked list js",
+    "javascript data structure"
+  ],
+  "author": "Dhananjay Chaudhari <opensourcedj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opensourcedj217/JSSinglyLinkedList/issues"
+  },
+  "homepage": "https://github.com/opensourcedj217/JSSinglyLinkedList#readme"
 }
